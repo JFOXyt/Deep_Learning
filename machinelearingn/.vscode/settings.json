@@ -1,0 +1,11 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "folder-customization.folders": [
+        {
+            "path": "machinelearingn\\neural_network\\",
+            "badge": "!!",
+            "color": "foldercustomization.AnsiColor1"
+        }
+    ],
+
+}

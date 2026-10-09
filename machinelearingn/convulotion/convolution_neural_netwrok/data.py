@@ -1,0 +1,11 @@
+KERNEL_SIZE = [(1,3,3),(2,3,3),(1,10,196)]
+#NN_SIZE = [1, 64, 225] #TODO: Idea add layers
+FILTERS = [2,4,1]
+LAYERS = 2
+BATCH = 32
+LR = 0.001
+CONVOLOVE_SIZE =  [(1, 28, 28),(2, 14, 14)]
+MPOOL_SIZE = [(4, 7, 7), (2, 14, 14)]
+WIDTH, HEIGHT = 28, 28
+INPUT_PIX = 784
+POOL_SIZE = 2
